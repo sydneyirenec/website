@@ -1,0 +1,84 @@
+header img {
+    height: 140px;
+    width: 142px;
+    vertical-align: middle;
+    
+}
+
+img {
+    width: 100%;
+
+}
+
+body{
+   
+    background-color: rgb(233, 229, 223);
+    
+   
+}
+.header {
+    font-family: 'Sono', regular;
+    font-size: 3em;
+    vertical-align: middle;
+    color:black
+    
+}
+
+body{
+    font-family: 'Sono', regular;
+    font-size: 1.5em;
+    vertical-align: middle;
+    color:black   
+    
+}
+
+/* Navigation bar */
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(221, 154, 179);
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #efc3cf;
+}
+
+/* card sections */ 
+.card {
+   
+  
+    margin:auto;
+    background-color: #efc3cf;
+    color:white
+   
+}
+}
+.container {
+    padding: 2px 16px;
+  }
+footer{
+height:5px;
+width: 10px;
+}
+
+
+
+
